@@ -1,0 +1,41 @@
+_repo: Auszug-aus-der-Alten-Mittleren-und-Neueren-Geschichte_44136
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44136-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ploetz, Carl
+    aliases:
+    - Ploetz, Karl Julius
+    - Ploetz, Charles
+    - Ploetz, C. (Carl)
+    birthdate: 1819
+    deathdate: 1881
+    gutenberg_agent_id: '42595'
+    url: http://www.gutenberg.org/2009/agents/42595
+  editors:
+  - agent_name: Kähler, Friedrich
+    alias: Kahler, Friedrich
+    deathdate: 1933
+    gutenberg_agent_id: '42597'
+    url: http://www.gutenberg.org/2009/agents/42597
+  - agent_name: Hoffmann, Maximilian
+    alias: Hoffmann, Max
+    birthdate: 1844
+    gutenberg_agent_id: '42596'
+    url: http://www.gutenberg.org/2009/agents/42596
+description: ''
+gutenberg_issued: '2013-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44136'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Outlines, syllabi, etc.'
+- !lcc 'D'
+title: Auszug aus der Alten, Mittleren und Neueren Geschichte
+url: http://www.gutenberg.org/ebooks/44136
